@@ -49,6 +49,7 @@
             </optional>
         </dependency>
 
+
         <!--   Adding support for spring actuator-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
